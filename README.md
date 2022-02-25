@@ -53,11 +53,11 @@ I am a [INSERT DESCRIPTORS ABOUT YOURSELF].
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=[YOUR_GITHUB_HANDLE_HERE]&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=[GITHUB_HANDLE_HERE]&theme=material-palenight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_HANDLE_HERE]&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_HANDLE_HERE]&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_HANDLE_HERE]&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[GITHUB_HANDLE_HERE]&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
